@@ -36,26 +36,19 @@
         }, 
         {
          "draworder":"topdown",
-         "id":5,
-         "name":"Positions",
+         "id":6,
+         "name":"Joueur",
          "objects":[
                 {
-                 "height":0,
-                 "id":1,
-                 "name":"",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"Start",
-                         "type":"object",
-                         "value":1
-                        }],
+                 "height":76,
+                 "id":2,
+                 "name":"Joueur_spawn",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
-                 "x":1310.06060606061,
-                 "y":1318.84848484848
+                 "width":111.333333333333,
+                 "x":1364.66666666667,
+                 "y":1622.66666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -75,8 +68,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":6,
- "nextobjectid":2,
+ "nextlayerid":7,
+ "nextobjectid":4,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.2",
